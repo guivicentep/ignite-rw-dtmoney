@@ -3,7 +3,26 @@
     {
       "id": 1,
       "description": "Desenvolvimento de site",
-      "type"
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-05-09T19:02:13.341Z"
+    },
+    {
+      "id": 2,
+      "description": "Dogão de Osasco",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 100,
+      "createdAt": "2023-05-03T20:12:50.341Z"
+    },
+    {
+      "id": 3,
+      "description": "Mouse Redragon",
+      "type": "outcome",
+      "category": "Periféricos",
+      "price": 175,
+      "createdAt": "2023-05-10T20:12:50.341Z"
     }
   ]
 }
