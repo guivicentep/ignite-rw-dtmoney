@@ -23,6 +23,30 @@
       "category": "Periféricos",
       "price": 175,
       "createdAt": "2023-05-10T20:12:50.341Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-05-15T17:19:14.189Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-05-15T19:25:19.857Z",
+      "id": 5
+    },
+    {
+      "description": "Sushi",
+      "price": 60,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-05-16T16:55:14.915Z",
+      "id": 6
     }
   ]
 }
