@@ -65,7 +65,8 @@ export function TransactionsProvider({ children }: TransactionsProviderProps) {
   // Colocando a função sobre o useEffect, e passando um array vazio ao final, será executado apenas uma vez
   useEffect(() => {
     fetchTransactions()
-  }, [])
+  }, [fetchTransactions])
+
   return (
     <TransactionsContext.Provider
       value={{ transactions, fetchTransactions, createTransaction }}
